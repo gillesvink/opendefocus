@@ -1,0 +1,11 @@
+[book]
+title = "OpenDefocus"
+authors = ["Gilles Vink"]
+language = "en"
+
+[output.html]
+preferred-dark-theme = "navy"
+no-section-label = false
+git-repository-url = "https://codeberg.org/gillesvink/opendefocus"
+git-repository-icon = "fab-git-alt"
+edit-url-template = "https://codeberg.org/gillesvink/opendefocus/_edit/main/crates/opendefocus/docs/{path}"
