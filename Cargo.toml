@@ -23,6 +23,10 @@ authors = ["Gilles Vink <gillesvink@noreply.codeberg.org>"]
 edition = "2024"
 license = "EUPL-1.2"
 repository = "https://codeberg.org/gillesvink/opendefocus"
+homepage = "https://opendefocus.codeberg.page"
+documentation = "https://opendefocus.codeberg.page"
+keywords = ["defocus", "convolution", "image-processing"]
+categories = ["multimedia", "graphics"]
 
 
 [profile.release.build-override]
