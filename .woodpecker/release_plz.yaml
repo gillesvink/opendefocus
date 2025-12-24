@@ -6,7 +6,7 @@ when:
 steps:
   release:
     when:
-      repo: gillesvink/none
+      repo: gillesvink/opendefocus
     image: rust
     commands:
       - apt update && apt install protobuf-compiler -y
