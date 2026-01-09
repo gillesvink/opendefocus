@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <a href="https://liberapay.com/gillesvink/donate" target="_blank">Donate</a> •
+  <a href="https://donate.gillesvink.com" target="_blank">Donate</a> •
   <a href="#features">Features</a> •
   <a href="https://opendefocus.codeberg.page/download.html" target="_blank">Download</a> •
   <a href="https://opendefocus.codeberg.page">Documentation</a> •
@@ -46,7 +46,7 @@
 ## Features
 
 ### User
-* Entirely free! ([but please consider donating!](https://liberapay.com/gillesvink/donate))
+* Entirely free! ([but please consider donating!](https://donate.gillesvink.com))
 * Native integration for camera data to match convolution to real world camera data.
 * GPU accelerated (Vulkan/Metal)
 * Both simple 2D defocus as well as depth based (1/Z, real or direct math based)

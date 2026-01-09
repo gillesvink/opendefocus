@@ -1010,7 +1010,7 @@ impl OpenDefocusNukeInstance {
         } else if knob_name == KnobDefinition::Documentation.to_snake_case() {
             webbrowser::open("https://opendefocus.codeberg.page")?;
         } else if knob_name == KnobDefinition::Donate.to_snake_case() {
-            webbrowser::open("https://liberapay.com/gillesvink/donate")?;
+            webbrowser::open("https://donate.gillesvink.com")?;
         };
 
         for knob in KnobDefinition::iter() {
@@ -1147,7 +1147,7 @@ fn version_footer() -> String {
 
     format!(
         "<div style='color: #808080;'>
-            OpenDefocus v{version} {decoration} - consider to <a href='https://liberapay.com/gillesvink/donate' style='color: #D3D3D3'>donate</a> ❤️
+            OpenDefocus v{version} {decoration} - consider to <a href='https://donate.gillesvink.com' style='color: #D3D3D3'>donate</a> ❤️
         </div>",
         decoration = decoration,
         version = version
